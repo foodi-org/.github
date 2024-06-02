@@ -13,8 +13,7 @@
 🌈  something need read before start。（具体些什么我还没想好 😁）
 
 ### 关于`Golang`
-* 版本: 1.22.3
-* 包管理: `go mod` (应该不用说吧☺️)
+* 版本: 1.22.3。包管理: `go mod` (应该不用说吧☺️)
 
 ### 关于框架
 本项组织下所有项目下均使用 `go-zero` 包含 `proxy` 和 `serivice`. 在框架基础上做了相应修改。
